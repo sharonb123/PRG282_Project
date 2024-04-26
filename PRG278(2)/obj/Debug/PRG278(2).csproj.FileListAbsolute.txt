@@ -1,0 +1,36 @@
+C:\Users\Vutomi\Desktop\PRG278(2) Project\PRG278(2)\PRG278(2)\bin\Debug\PRG278(2).exe.config
+C:\Users\Vutomi\Desktop\PRG278(2) Project\PRG278(2)\PRG278(2)\bin\Debug\PRG278(2).exe
+C:\Users\Vutomi\Desktop\PRG278(2) Project\PRG278(2)\PRG278(2)\bin\Debug\PRG278(2).pdb
+C:\Users\Vutomi\Desktop\PRG278(2) Project\PRG278(2)\PRG278(2)\obj\Debug\PRG278(2).csproj.AssemblyReference.cache
+C:\Users\Vutomi\Desktop\PRG278(2) Project\PRG278(2)\PRG278(2)\obj\Debug\PRG278_2_.LoginIn.resources
+C:\Users\Vutomi\Desktop\PRG278(2) Project\PRG278(2)\PRG278(2)\obj\Debug\PRG278_2_.PresentationLayer.MainForm.resources
+C:\Users\Vutomi\Desktop\PRG278(2) Project\PRG278(2)\PRG278(2)\obj\Debug\PRG278_2_.Properties.Resources.resources
+C:\Users\Vutomi\Desktop\PRG278(2) Project\PRG278(2)\PRG278(2)\obj\Debug\PRG278(2).csproj.GenerateResource.cache
+C:\Users\Vutomi\Desktop\PRG278(2) Project\PRG278(2)\PRG278(2)\obj\Debug\PRG278(2).csproj.CoreCompileInputs.cache
+C:\Users\Vutomi\Desktop\PRG278(2) Project\PRG278(2)\PRG278(2)\obj\Debug\PRG278(2).exe
+C:\Users\Vutomi\Desktop\PRG278(2) Project\PRG278(2)\PRG278(2)\obj\Debug\PRG278(2).pdb
+C:\Users\Vutomi\Desktop\PRG278(2) Project\PRG278(2)\PRG278(2)\obj\Debug\PRG278_2_.PresentationLayer.SignUp.resources
+C:\Users\Precious\Documents\secondYear\PGR282\project\PRG278(2) Project\PRG278(2)\PRG278(2)\bin\Debug\PRG278(2).exe.config
+C:\Users\Precious\Documents\secondYear\PGR282\project\PRG278(2) Project\PRG278(2)\PRG278(2)\bin\Debug\PRG278(2).exe
+C:\Users\Precious\Documents\secondYear\PGR282\project\PRG278(2) Project\PRG278(2)\PRG278(2)\bin\Debug\PRG278(2).pdb
+C:\Users\Precious\Documents\secondYear\PGR282\project\PRG278(2) Project\PRG278(2)\PRG278(2)\obj\Debug\PRG278(2).csproj.AssemblyReference.cache
+C:\Users\Precious\Documents\secondYear\PGR282\project\PRG278(2) Project\PRG278(2)\PRG278(2)\obj\Debug\PRG278_2_.LoginIn.resources
+C:\Users\Precious\Documents\secondYear\PGR282\project\PRG278(2) Project\PRG278(2)\PRG278(2)\obj\Debug\PRG278_2_.PresentationLayer.MainForm.resources
+C:\Users\Precious\Documents\secondYear\PGR282\project\PRG278(2) Project\PRG278(2)\PRG278(2)\obj\Debug\PRG278_2_.PresentationLayer.SignUp.resources
+C:\Users\Precious\Documents\secondYear\PGR282\project\PRG278(2) Project\PRG278(2)\PRG278(2)\obj\Debug\PRG278_2_.Properties.Resources.resources
+C:\Users\Precious\Documents\secondYear\PGR282\project\PRG278(2) Project\PRG278(2)\PRG278(2)\obj\Debug\PRG278(2).csproj.GenerateResource.cache
+C:\Users\Precious\Documents\secondYear\PGR282\project\PRG278(2) Project\PRG278(2)\PRG278(2)\obj\Debug\PRG278(2).csproj.CoreCompileInputs.cache
+C:\Users\Precious\Documents\secondYear\PGR282\project\PRG278(2) Project\PRG278(2)\PRG278(2)\obj\Debug\PRG278(2).exe
+C:\Users\Precious\Documents\secondYear\PGR282\project\PRG278(2) Project\PRG278(2)\PRG278(2)\obj\Debug\PRG278(2).pdb
+C:\Users\Precious\Documents\secondYear\PGR282\PRG282_Project_Milestone_2\PRG278(2)\PRG278(2)\bin\Debug\PRG278(2).exe.config
+C:\Users\Precious\Documents\secondYear\PGR282\PRG282_Project_Milestone_2\PRG278(2)\PRG278(2)\bin\Debug\PRG278(2).exe
+C:\Users\Precious\Documents\secondYear\PGR282\PRG282_Project_Milestone_2\PRG278(2)\PRG278(2)\bin\Debug\PRG278(2).pdb
+C:\Users\Precious\Documents\secondYear\PGR282\PRG282_Project_Milestone_2\PRG278(2)\PRG278(2)\obj\Debug\PRG278(2).csproj.AssemblyReference.cache
+C:\Users\Precious\Documents\secondYear\PGR282\PRG282_Project_Milestone_2\PRG278(2)\PRG278(2)\obj\Debug\PRG278_2_.LoginIn.resources
+C:\Users\Precious\Documents\secondYear\PGR282\PRG282_Project_Milestone_2\PRG278(2)\PRG278(2)\obj\Debug\PRG278_2_.PresentationLayer.MainForm.resources
+C:\Users\Precious\Documents\secondYear\PGR282\PRG282_Project_Milestone_2\PRG278(2)\PRG278(2)\obj\Debug\PRG278_2_.PresentationLayer.SignUp.resources
+C:\Users\Precious\Documents\secondYear\PGR282\PRG282_Project_Milestone_2\PRG278(2)\PRG278(2)\obj\Debug\PRG278_2_.Properties.Resources.resources
+C:\Users\Precious\Documents\secondYear\PGR282\PRG282_Project_Milestone_2\PRG278(2)\PRG278(2)\obj\Debug\PRG278(2).csproj.GenerateResource.cache
+C:\Users\Precious\Documents\secondYear\PGR282\PRG282_Project_Milestone_2\PRG278(2)\PRG278(2)\obj\Debug\PRG278(2).csproj.CoreCompileInputs.cache
+C:\Users\Precious\Documents\secondYear\PGR282\PRG282_Project_Milestone_2\PRG278(2)\PRG278(2)\obj\Debug\PRG278(2).exe
+C:\Users\Precious\Documents\secondYear\PGR282\PRG282_Project_Milestone_2\PRG278(2)\PRG278(2)\obj\Debug\PRG278(2).pdb
